@@ -1,4 +1,4 @@
-# 🎬 Movie Industry Data Science Suite: Prediction & Recommendation
+#  Movie Industry Data Science Suite: Prediction & Recommendation
 
 This project provides a comprehensive end-to-end data science workflow applied to the movie industry. Using two extensive datasets, it covers everything from data cleaning and exploration to the deployment of three distinct Machine Learning models.
 
